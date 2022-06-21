@@ -1,3 +1,8 @@
+# Personal Portfolio Coming Soon Page
+
+A temporary page that will be in place until my personal portfolio is
+ready for deployment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
